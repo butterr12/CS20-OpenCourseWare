@@ -6,4 +6,10 @@ The **CS20 OpenCourseware Platform** is a modern web-based solution designed to 
 - **Frontend:** Svelte, Tailwind CSS  
 - **Backend:** Supabase (PostgreSQL, Edge Functions)    
 - **Database:** Supabase (PostgreSQL)  
-=======
+
+## Getting Started  
+
+### 1️⃣ Clone the Repository  
+```bash
+git clone https://github.com/butterr12/cs20web.git
+cd cs20web
